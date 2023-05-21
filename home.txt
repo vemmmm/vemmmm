@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<head>
+<title>NBA PLAYERS</title>
+<link rel="stylesheet" style="text/css" href="style.css">
+</head>
+<body>
+<ul>
+<li><a href= "H" style = "color:white;">HOME</a></li>
+<li><a href= "P" style =  "color:white;">PRODUCT</a></li>
+<li><a href= "A" style =  "color:white;">ABOUT</a></li>
+<li><a href= "C" style =   "color:white;">CONTACT</a></li>
+<ul>
+<body>
+</html>

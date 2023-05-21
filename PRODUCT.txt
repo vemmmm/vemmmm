@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+<title>NBA SNEAKERS</title>
+<link rel="stylesheet" style=""/css" href="style.css"/>
+</head>
+<body 
+<p><center><h1 style = " color:white;">NBA SNEAKERS SHOP</h1></center><p>
+</head>
+<body>
+<u1>
+<center>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<li><a href = "home.html" style = "color:white;"><h2>CHOOSE YOUR FAVORITE SHOES!!</h2></a></li>
+</body>
+</html>
